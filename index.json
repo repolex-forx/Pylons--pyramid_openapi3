@@ -1,0 +1,11 @@
+{
+  "org": "Pylons",
+  "repo": "pyramid_openapi3",
+  "versions": [
+    {
+      "commit": "39a3e77b7599a77ba107e5a772bb36f2f71a3ee5",
+      "tag": "",
+      "parsed_at": "2026-10-12T02:02:04.856203+00:00"
+    }
+  ]
+}
